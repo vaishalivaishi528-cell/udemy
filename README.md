@@ -8,12 +8,11 @@ This project helped me understand the fundamentals of HTML structure and CSS sty
 ##  Technologies Used
 - HTML
 - CSS
-- 
-  ## How to view
-  You can access my udemy clone website [link] feel free to explore the content and get in touch!
-  
-  ## Contributing
 
+     ##  How to view
+   You can access my udemy clone website [link] feel free to explore the content and get in touch!
+  
+ ## Contributing
   If you 'd like to contribute or suggest improvements,please feel free to open an issue or create pull request.Your feedback is greatly appriciated.
 
 ## Features
