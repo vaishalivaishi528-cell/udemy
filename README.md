@@ -1,7 +1,7 @@
 # Udemy Clone Website 🎓
 
 ## About the Project
-This project is a basic Udemy Clone website created using HTML and CSS. It is inspired by the Udemy online learning platform and focuses on recreating its basic website layout and design.
+ Welcome to my Udemy clone website!This project is a basic Udemy Clone website created using HTML and CSS. It is inspired by the Udemy online learning platform and focuses on recreating its basic website layout and design.
 
 This project helped me understand the fundamentals of HTML structure and CSS styling while improving my front-end web development skills.
 
@@ -9,7 +9,8 @@ This project helped me understand the fundamentals of HTML structure and CSS sty
 - HTML
 - CSS
 
-     ##  How to view
+
+ ##  How to view
    You can access my udemy clone website [link] feel free to explore the content and get in touch!
   
  ## Contributing
